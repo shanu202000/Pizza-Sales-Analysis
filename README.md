@@ -64,7 +64,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to reach out with any questions or feedback regarding the project. Enjoy exploring the pizza sales data and uncovering valuable insights!
 
 
 
